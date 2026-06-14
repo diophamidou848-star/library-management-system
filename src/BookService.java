@@ -11,7 +11,7 @@ public class BookService {
 
     private static final String USER = "postgres";
 
-    private static final String PASSWORD = "Diop@9321";
+    private static final String PASSWORD = "YOUR_PASSWORD";
 
     // Ajouter un livre
     public static void addBook() {

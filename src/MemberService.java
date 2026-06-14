@@ -12,7 +12,7 @@ public class MemberService {
 
     private static final String USER = "postgres";
 
-    private static final String PASSWORD = "Diop@9321";
+    private static final String PASSWORD = "YOUR_PASSWORD";
 
     public static void addMember() {
 
